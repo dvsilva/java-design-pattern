@@ -1,25 +1,19 @@
-# Fundamentos de Expressões Regulares (Regex) da Udemy
+# Padrões de Projeto em JAVA na Prática! da Udemy
 
-Descrição: Aprenda a usar Expressões Regulares (Regex) e aplique em várias linguagens: Javascript, Go, Ruby, Python, Java...
+Descrição: Conheça os principais padrões de design de software do mercado. Curso com muita pratica e ótimos exemplos.
 
-Link: https://www.udemy.com/course/curso-regex/
+Link: https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica
 
 
 ## :rocket: Conceitos e tecnologias
 
-✔️ Expressões Regulares (Regex)
+✔️ Principais padrões da Gang of Four (GoF)
 
-✔️ Caracteres
+✔️ Padrões de projeto Criacionais, como: Factory, Abstract Factory, Singleton, Builder e Prototype
 
-✔️ Conjuntos
+✔️ Padrões de projeto Estruturais, como: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Mediator e Proxy
 
-✔️ Quantificadores
-
-✔️ Grupos
-
-✔️ Bordas
-
-✔️ Receitas (Syntax Highlight, Telefones, Intervalos Numéricos, IPv4, Validação de Senha e Validação de E-mail)
+✔️ Padrões de projeto Comportamentais, como: Chain of Resposibility, Command, Iterator, Memento, Observer, State, Strategy e Template Method
 
 ✔️ VSCode e Eclipse IDE
 
