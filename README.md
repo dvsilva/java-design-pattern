@@ -9,11 +9,11 @@ Link: https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica
 
 ✔️ Principais padrões da Gang of Four (GoF)
 
-✔️ Padrões de projeto Criacionais, como: Factory, Abstract Factory, Singleton, Builder e Prototype
+✔️ Padrões de projeto Criacionais: Factory, Abstract Factory, Singleton, Builder e Prototype
 
-✔️ Padrões de projeto Estruturais, como: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Mediator e Proxy
+✔️ Padrões de projeto Estruturais: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Mediator e Proxy
 
-✔️ Padrões de projeto Comportamentais, como: Chain of Resposibility, Command, Iterator, Memento, Observer, State, Strategy e Template Method
+✔️ Padrões de projeto Comportamentais: Chain of Resposibility, Command, Iterator, Memento, Observer, State, Strategy e Template Method
 
 ✔️ VSCode e Eclipse IDE
 
